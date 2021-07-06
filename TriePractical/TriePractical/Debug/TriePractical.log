@@ -1,0 +1,4 @@
+﻿  TriePractical.cpp
+C:\Users\jackk\OneDrive\Desktop\TriePractical\TriePractical\Trie.h(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackk\OneDrive\Desktop\TriePractical\TriePractical\Trie.h(41,20): warning C4018: '<': signed/unsigned mismatch
+  TriePractical.vcxproj -> C:\Users\jackk\OneDrive\Desktop\TriePractical\Debug\TriePractical.exe
